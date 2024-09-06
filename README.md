@@ -4,7 +4,7 @@ A simple MySQL database management project that allows users to create databases
 
 ## Usage
 
-1. Run the `mysql_project.py` file to launch the project.
+1. Run the `d-project.py` file to launch the project.
 2. Follow the prompts to create a database, delete a database, create a table, delete a table, insert data, delete data, update data, or display data.
 
 ## Database Setup
